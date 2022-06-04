@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c720562-ec77-4ab8-b73c-5cccfb1d273e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/5ecde7677b83304132cb2871516ea50032ff7a4f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/73ab33bd357c3fd42292487b825880958c595655.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/e1a7c5c32973862ee15173b0259e3efdb6a391af.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/p1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/uploads/p1.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="5c720562-ec77-4ab8-b73c-5cccfb1d273e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +13,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="175" column="140" selection-start-line="175" selection-start-column="140" selection-end-line="175" selection-end-column="140" />
+            <state relative-caret-position="786">
+              <caret line="72" column="78" lean-forward="true" selection-start-line="72" selection-start-column="78" selection-end-line="72" selection-end-column="78" />
               <folding>
+                <element signature="n#style#0;n#div#2;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#4;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -197,11 +192,15 @@
     <entry file="file://$PROJECT_DIR$/uploads/p2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/p1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="175" column="140" selection-start-line="175" selection-start-column="140" selection-end-line="175" selection-end-column="140" />
+        <state relative-caret-position="786">
+          <caret line="72" column="78" lean-forward="true" selection-start-line="72" selection-start-column="78" selection-end-line="72" selection-end-column="78" />
           <folding>
+            <element signature="n#style#0;n#div#2;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#4;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
