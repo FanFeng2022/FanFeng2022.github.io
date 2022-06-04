@@ -1,0 +1,128 @@
+    a.navlink:link,
+    a.navlink:visited {
+        color: black; 
+        background-color: transparent; 
+        text-decoration: none;
+    }
+
+    a.navlink:active,
+    a.navlink:hover {
+        color: red; 
+        background-color: transparent; 
+        text-decoration: none;
+    }
+
+    body { 
+        background: rgb(250,250,250);
+    }
+
+    .bar {
+        z-index: 10;
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 70px;
+        width: 100%;
+        background: white;
+        border-bottom: 1px solid #e6e6e6;
+    }
+    
+    .row_center {
+        align-items: center;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .fix_top {
+        margin-top: 70px;
+    }
+
+    .logo {
+        width: 30px;
+        padding-right: 20px;
+        border-right: 1px solid grey;
+    }
+
+    .insta {
+        padding-left: 16px;
+    }
+
+    .exp {
+        padding-left: 8px;
+        padding-right: 10px;
+        border-right: 1px solid grey;
+    }
+
+
+    main {
+        top: 70px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .main_col {
+        position: relative;
+        top: 70px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: stretch;
+        width: 800px;
+    }
+
+    .info {
+        justify-content: start;
+        width: 100%;
+        padding-bottom: 12px;
+    }
+
+    .info_id {
+        font-size: 36px;
+        padding-bottom: 24px;
+    }
+
+    .info_panel {
+        display: flex;
+        justify-content: flex-start;
+        padding-bottom: 24px;
+    }
+
+    .info_item {
+        padding-right: 24px;
+        display: inline;
+    }
+
+    a.numberlink:link,
+    a.numberlink:visited {
+        font-weight: bold;
+        color: black; 
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+    a.numberlink:hover,
+    a.numberlink:active {
+        font-weight: bold;
+        color: red; 
+        background-color: transparent; 
+        text-decoration: none;
+    }
+
+    .info_img_row {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        padding-bottom: 32px;
+    }
+
+    .info_img_col {
+        display: flex;
+        width: 48%;
+    }
+
+    img {
+        max-width: 100%;
+    }
